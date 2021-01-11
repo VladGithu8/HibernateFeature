@@ -13,6 +13,8 @@
 
 ### Methods have been implemented in DAO:
 
+DAO methods|
+------------|
  findById|
  findAll|
  save|
