@@ -12,12 +12,10 @@
 ### Relationships One-to-Many, Many-to-One, Many-to-Many are used between entities.
 
 ### Methods have been implemented in DAO:
------------- |
+
  findById|
  findAll|
  save|
  update|
  delete|
------------- |
-
 
