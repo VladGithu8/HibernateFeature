@@ -13,11 +13,11 @@
 
 ### Methods have been implemented in DAO:
 ------------ |
-* findById|
-* findAll|
-* save|
-* update|
-* delete|
+ findById|
+ findAll|
+ save|
+ update|
+ delete|
 ------------ |
 
 
